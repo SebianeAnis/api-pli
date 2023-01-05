@@ -1,10 +1,10 @@
-**git clone le projet **
+**git clone le projet**
 
 aller dans le dossier du projet 
 
 faire : 
 
-  **composer update **
+  **composer update**
 
 ensuite créer un fichier .env dans lequel on copie colle tout le .env.example
 
